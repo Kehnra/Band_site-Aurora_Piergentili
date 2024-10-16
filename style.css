@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+
+.mynav {
+    margin-left: 0;
+    height: 7%;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.logo {
+    width: 200px;
+}
+
+.mytitle {
+    position: absolute;
+    top: 70%;
+    left: 35%;
+    z-index: 99;
+    font-size: 7vw;
+    text-shadow: 2px 2px 15px rgb(172, 172, 172);
+}
+
